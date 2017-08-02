@@ -18,4 +18,5 @@ naive_bayes.py
 Chapter 6: logistic regression
 logistic.py 
 
-
+Chapter 7: svm
+svm.py
