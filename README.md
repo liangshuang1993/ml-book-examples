@@ -17,6 +17,12 @@ naive_bayes.py
 
 Chapter 6: logistic regression
 logistic.py 
+iis.py
+
 
 Chapter 7: svm
 svm.py
+
+
+Additional Neural Network
+fn.py
