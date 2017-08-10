@@ -79,7 +79,8 @@ class Markov(object):
             opt_state = fai[t + 1][states[self.T - 2 - t]]
             states.append(opt_state)
 
-        states = states.reverse()
+        states.reverse()
+        print states
 
 
 

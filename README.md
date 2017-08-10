@@ -24,5 +24,17 @@ Chapter 7: svm
 svm.py
 
 
+chapter 8: boost
+adaboost.py
+
+
+chapter 9: em
+em.py
+
+
+Chapter10 markov
+markov.py
+
+
 Additional Neural Network
 fn.py
